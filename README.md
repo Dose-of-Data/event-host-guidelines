@@ -40,7 +40,11 @@ No. | Task                                               | Description          
 | | 13.3 Thank the guest and attendees                       | Express gratitude to the guest and attendees.  Post any links to mateirals used and reocmmended readings.                | Host             | After event
 
 ## Dose of Data Branding Assets
-TBD
+![](assets/branding-dark.png)
+![](assets/branding-light.png)
+![](assets/dod-discord-transparent.png)
+![](assets/dod-discord.png)
+![](assets/logo%20idea-dark-discord-banner.png)
 
 ## Social Media Links
 TBD
