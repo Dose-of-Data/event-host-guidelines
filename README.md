@@ -48,3 +48,6 @@ No. | Task                                               | Description          
 
 ## Social Media Links
 TBD
+
+## Canva Event Template
+https://www.canva.com/design/DAFceOlNRaA/7idZ7F4UwafG7-48RwMLgw/edit?utm_content=DAFceOlNRaA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
